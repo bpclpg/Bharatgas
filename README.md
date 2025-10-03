@@ -47,12 +47,7 @@
       <span class="text-lg font-semibold text-gray-700">TataNeu</span>
     </a>
 
-    <!-- Bharatgas Web -->
-    <a href="https://tinyurl.com/lpgbook" target="_blank" 
-       class="bg-white shadow-lg rounded-2xl p-6 flex flex-col items-center hover:scale-105 transform transition duration-200">
-      <img src="https://www.bharatpetroleum.in/images/lpg.png" alt="Bharatgas" class="w-16 h-16 mb-3">
-      <span class="text-lg font-semibold text-gray-700">Bharatgas Web</span>
-    </a>
+
     
   </div>
 
